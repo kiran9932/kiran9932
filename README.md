@@ -1,8 +1,6 @@
 # Hi there, I'm Sai Kiran 👋
 
-I'm a Cloud & DevOps Enthusiast building practical infrastructure, automation, and containerized applications.
-
-I work with AWS, Terraform, Docker, Linux, GitHub Actions, and shell scripting. I enjoy turning infrastructure concepts into documented, repeatable, and version-controlled projects.
+AWS Certified Solutions Architect – Associate with hands-on experience building cloud infrastructure using Terraform, AWS, Docker, Linux, and GitHub Actions.
 
 ---
 
